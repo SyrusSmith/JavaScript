@@ -1,0 +1,3 @@
+Esto es una prueba de cómo funciona AJAX
+
+Para que funcione hay que meter la carpeta completa dentro de la carpeta "localhost" (en Linux), "Xampp" (en Windows), o "Mampp"(en MacOs)
