@@ -1,0 +1,1 @@
+Ésto es lectura de datos vía FETCH
